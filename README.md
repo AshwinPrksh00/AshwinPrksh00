@@ -1,6 +1,7 @@
 ### Hey Guys, Ashwin Here 👋
 [![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinPrksh00&show_icons=true&count_private=True&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinPrksh00&layout=compact&theme=tokyonight&langs_count=6" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinPrksh00&layout=compact&theme=tokyonight&langs_count=6" />
+</div>
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshwinPrksh00&row=1" alt="Ashwin Prakash" /></a> </p>
 
